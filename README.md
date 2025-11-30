@@ -1,4 +1,4 @@
-## INSY 6500 Final Project: Analysis and Prediction of Environmental Conditions and Energy Consumption of Greenhouses
+## INSY 6500 Final Project: Environmental Conditions Analysis and Energy Consumption Prediction for Greenhouses
 
 This repository contains Python scripts for the final group project for "INSY 6500 - Modern Tools for Data Analytics and Modeling". The study focuses on analyzing greenhouse environmental data and developing predictive models for energy consumption based on various environmental parameters. We also explore various environmental parameters and build a Streamlit application for interactive analysis and prediction.
 
