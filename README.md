@@ -32,9 +32,9 @@ To analyze greenhouse environmental data and develop machine learning models tha
 
 - Temperature (Greenhouse and Ambient)
 
-- Solar Radiation
+- Solar Radiation (Photosynthetic Photon Flux Density-PPFD)
 
-- Relative Humidity (Greenhouse and Ambient)
+- Relative Humidity
 
 - Vapor Pressure Deficit
 
@@ -47,7 +47,11 @@ To analyze greenhouse environmental data and develop machine learning models tha
 
 #### Packages and Libraries
 
---- To be declared ---
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Numpy
 
 
 #### Contribution
