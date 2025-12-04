@@ -52,7 +52,11 @@ To analyze greenhouse environmental data and develop machine learning models tha
 - Seaborn
 - Scikit-learn
 - Numpy
+- Streamlit
 
+##### Note for Streamlit App
+
+Run the interactive dashboard app from the terminal using `streamlit run app/app.py`.
 
 #### Contribution
 
